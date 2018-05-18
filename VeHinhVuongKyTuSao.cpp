@@ -1,3 +1,6 @@
+//n là cạnh của hình vuông và in ra hình vuông các ký tự *
+//
+//
 #include<stdio.h>
 #include<math.h>
 
